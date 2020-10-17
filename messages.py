@@ -1,3 +1,5 @@
+# All messages that bot will send to the users
+
 WELCOME_MESSAGE = "Hello\nIt is a chat bot, which help to analyze the user's mental state\n" \
                   "This chat bot will scan all user’s posts on Instagram to detect user’s mental problems." \
                   "\nIt will analyze post descriptions, photos.\nWe won’t use your personal data only " \
