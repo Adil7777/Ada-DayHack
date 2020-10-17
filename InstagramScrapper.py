@@ -1,3 +1,4 @@
+# importing tools
 from bs4 import BeautifulSoup
 from os import listdir
 from os.path import isfile, join
@@ -8,10 +9,12 @@ import instaloader
 
 class InstaLoader:
     def __init__(self, account):
+        # initialize
         self.account = account
         self.directory = account
 
     def get_files(self):
+        # getting all names of the files which were downloaded from ins page
         files = [f for f in listdir(self.directory) if isfile(join(self.directory, f))]
         images, posts = [], []
         for file in files:
@@ -23,6 +26,7 @@ class InstaLoader:
         return images, posts
 
     def check_image(self):
+        # return a list of rgb of each image
         images, posts = self.get_files()
         rgbs = []
         for image in images:
@@ -43,6 +47,7 @@ class InstaLoader:
         return rgbs
 
     def all_words(self):
+        # returns all posts
         images, posts = self.get_files()
         words = ''
 
@@ -64,5 +69,6 @@ class InstaLoader:
         return str(meta)[15:len(str(meta)) - 29]
 
     def get_pictures(self):
+        # parsing instagram 
         mod = instaloader.Instaloader()
         mod.download_profile(self.account)
