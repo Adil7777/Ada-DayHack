@@ -1,0 +1,2 @@
+# Ada-DayHack
+First of all user presses start button and bot sends description. Then user needs to register, user needs to write name, surname, account and email address. After that user needs to verify his or her email, by code, which program will send to email. To verify user just need to type a code. After that bot will add him to a database, in order to remember user. If user types check_account program starts to load information from instagram page and ai starts to analyze all images and posts, after that it returns a verdict and bot sends it to user.
