@@ -1,0 +1,67 @@
+AGREEMENT ON THE PROCESSING OF PERSONAL DATA
+
+1. General Provisions
+1.1 The Agreement on the Processing of Personal Data (here in after referred to as the "Agreement") is aimed at protecting the rights and freedoms of individuals whose personal data is processed by Helping Eye (hereinafter referred to as the "Information User").
+1.2 The Agreement was developed in accordance with the current legislation of the Republic of Kazakhstan and other legislative acts of the Republic of Kazakhstan.
+1.3 The Agreement is a public document.
+
+
+
+2. Information about the Information User 
+2.1 Information User – Helping Eye
+2.2 Contact number - +77051919197
+
+
+
+
+3. Information about the processing of personal data 
+3.1 The Information User processes personal data on a legal and fair basis to achieve the goals set, including for the provision of services and the transfer of information to the Owner of personal data (here in after referred to as the "Client"), it is also possible to transfer data to the legal representative of the Owner of personal data. 
+3.2 The Information User receives personal data directly from the Clients, and (or) using the information that is publicly available on the page on the social networks Telegram, Instagram.
+3.3 The Information User processes personal data in automated ways, using computer technology, also using artificial intelligence.
+3.4 Actions for the processing of personal data including receipt, collection, processing, accumulation, storage and usage.
+
+
+
+4. Processing of personal data of Clients 
+4.1 The Information User processes the personal data of the Client in the framework of legal relations with him in accordance with the legislation of the Republic of Kazakhstan. 
+4.2 The Information User processes the personal data of the Clients in compliance with the norms of the legislation of the Republic of Kazakhstan in order to: 
+4.2.1 receiving requests from Clients; 
+4.2.2 increasing the database of mental problems; 
+4.2.3 monitoring the mental health of the Client; 
+4.2.4 newsletter, including tests, polls, proposals; 
+4.2.5 analyzing information, conducting tests (researches by artificial intelligence) and showing their results to the Client, and (or) his legal representative
+4.3 The Information User processes the personal data of the Clients with their consent provided by the Clients and / or their legal representatives by performing specific actions in the Telegram bot Helping Eye Bot (here in after - "Bot"), including, but not limited to, subscribing to the newsletter, as well as by ticking on consent, in accordance with the Agreement. 
+4.4 The Information User processes the personal data of the Clients no longer than the purpose of the processing of personal data requires, unless otherwise provided by the legislation of the Republic of Kazakhstan. 
+4.5 The Information User can process the following personal data of the Clients:
+4.5.1 All his activities are publicly available on the Instagram social network. 
+4.5.2 All personal information given in the social network Instagram, Telegram. 
+4.5.3 All information received from users and in the form of responses / messages written by the Client in the Bot
+
+
+
+5. Information on ensuring the security of personal data of Clients
+5.1 When processing personal data, the user takes the necessary legal, organizational and technical measures or ensures their adoption to protect personal data from unauthorized or accidental access to them, destruction, modification, blocking, copying, provision, distribution of personal data, as well as from other illegal actions in relation to personal data.
+5.2 Measures to ensure the security of personal data during their processing, used by the Information User, are planned and implemented in order to ensure compliance with the requirements of the Law, as well as other legislative acts of the Republic of Kazakhstan.
+
+
+
+
+6. Rights of Clients 
+6.1 The client has the rights: 
+6.1.1 to request the provision of personal data used; 
+6.1.2 to clarify (change) his personal data if they are incomplete, outdated, inaccurate; 
+6.1.3 to revoke his consent to the processing of personal data; 
+6.1.4 to protect their rights and legitimate interests, including compensation for damages and compensation for moral damage in court; 
+6.1.5 to appeal against actions or omissions of the Information User to the authorized body for the protection of consumer rights or in court.
+6.2 To exercise their rights and legitimate interests, the Client has the rights to contact the Information User in the manner prescribed by the legislation of the Republic of Kazakhstan.
+
+
+
+
+7. Final provisions 
+7.1 The Agreement and the relationship between the Information User and the Client shall be governed by and construed in accordance with the legislation of the Republic of Kazakhstan. Issues not regulated by the Agreement are subject to resolution in accordance with the legislation of the Republic of Kazakhstan.
+7.2 The Agreement is a public offer, in accordance with paragraph 5 of Article 395 of the Civil Code of the Republic of Kazakhstan. The fact of the continuation of actions in the Bot is, in accordance with clause 3 of Article 396 of the Civil Code of the Republic of Kazakhstan). Ignorance of the provisions of the Agreement does not relieve the Client from liability for
+non-compliance with its terms. 
+7.3 The information user reserves the right, at his own discretion, to change and (or) supplement the Agreement at any time without prior and (or) subsequent notification of the Client. The current version of the Agreement is available in the Bot interface.
+7.4 This Agreement in relation to each of the Clients comes into force from the moment the Client performs the actions specified in clause 7.2 of the Agreement and is valid until the Client stops working with the Bot.
+
