@@ -1,3 +1,4 @@
+# import tools
 import sqlite3
 
 
@@ -41,6 +42,7 @@ class DataBase:
         conn.commit()
 
     def add_user(self, user_id: int, name, surname, account, email):
+        # adding user to database
         conn = self.get__connection()
         c = conn.cursor()
         c.execute('INSERT INTO users (user_id, name, surname, account, email, code) VALUES (?, ?, ?, ?, ?, ?)',
@@ -48,6 +50,7 @@ class DataBase:
         conn.commit()
 
     def get_user(self, user_id):
+        # get user from a database
         conn = self.get__connection()
         c = conn.cursor()
         c.execute('SELECT * FROM users WHERE (user_id) = ?', (user_id,))
@@ -59,11 +62,13 @@ class DataBase:
         return user_ids[0]
 
     def subscriber_exist(self, user_id):
+        # checking if user already in database
         conn = self.get__connection()
         c = conn.cursor()
         return c.execute('SELECT * FROM users WHERE (user_id) = ?', (user_id,))
 
     def get_users(self):
+        # getting all users from database
         conn = self.get__connection()
         c = conn.cursor()
         c.execute('SELECT * FROM users')
